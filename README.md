@@ -1,6 +1,7 @@
 # Winssh
 Ssh server implementation for windows and linux machines using Go/GoLang with password authentication.
 By default SSH server run on port **2200**. Default username is **foo** and password is **bar**.
+I have tried this as part of my GoLang learning and practice.
 
 
 # How to Use
